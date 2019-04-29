@@ -1,0 +1,19 @@
+{
+  "name": "behavior_of_gulp_lastrun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://MasatoMakino@github.com/MasatoMakino/behavior_of_gulp_lastrun.git",
+  "author": "MasatoMakino <unagiinu.g@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^4.1.1",
+    "gulp": "^4.0.1",
+    "gulp-imagemin": "^5.0.3",
+    "prettier": "^1.17.0"
+  },
+  "scripts": {
+    "clean": "gulp clean",
+    "images": "gulp images",
+    "watch": "gulp watch"
+  }
+}
