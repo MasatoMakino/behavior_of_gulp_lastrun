@@ -6,10 +6,10 @@
   "author": "MasatoMakino <unagiinu.g@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "del": "^5.1.0",
+    "del": "^6.0.0",
     "gulp": "^4.0.2",
     "gulp-imagemin": "^7.1.0",
-    "prettier": "^2.1.1"
+    "prettier": "^2.2.1"
   },
   "scripts": {
     "clean": "gulp clean",
